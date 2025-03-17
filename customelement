@@ -1,8 +1,8 @@
 {
-    "name": "Luxury Dark theme",
-    "is_dark": false    ,
+    "name": "Liiibre",
+    "is_dark": false,
     "colors": {
-        "accent-color": "#FFD482",
+        "accent-color": "#00CCDA",
         "primary-color": "#00CCDA",
         "warning-color": "#FFD482",
         
@@ -13,7 +13,7 @@
         "roomlist-text-color": "#118188",
         "roomlist-text-secondary-color": "#876C54",
         
-        "timeline-background-color": "#FDFADB",
+        "timeline-background-color": "#ffffff",
         "timeline-highlights-color": "#FFD482",
         "timeline-text-color": "#118188",
         "secondary-content": "#118188",
